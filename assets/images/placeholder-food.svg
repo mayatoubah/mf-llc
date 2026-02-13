@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Maci Food product placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAF3E0"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="720" cy="120" r="140" fill="#064E3B" opacity="0.14"/>
+  <circle cx="180" cy="560" r="180" fill="#0B0F14" opacity="0.12"/>
+  <text x="450" y="320" fill="#064E3B" font-size="68" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">Maci Food</text>
+  <text x="450" y="390" fill="#0B0F14" font-size="34" text-anchor="middle" font-family="Arial, sans-serif">Africa Market Premium</text>
+</svg>
