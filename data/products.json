@@ -1,0 +1,868 @@
+[
+  {
+    "id": 1,
+    "name": "Riz parfumé",
+    "slug": "riz-parfume-1",
+    "price": 10.14,
+    "compareAtPrice": 13.12,
+    "stock": 56,
+    "category": "Riz",
+    "origin": "Guinea",
+    "tags": [
+      "riz",
+      "africa-market",
+      "guinea",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Riz parfumé sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de riz parfumé, soigneusement sourcés en Guinea.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 2,
+    "name": "Riz brisé",
+    "slug": "riz-brise-2",
+    "price": 12.13,
+    "compareAtPrice": 15.49,
+    "stock": 40,
+    "category": "Riz",
+    "origin": "Senegal",
+    "tags": [
+      "riz",
+      "africa-market",
+      "senegal",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Riz brisé sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de riz brisé, soigneusement sourcés en Senegal.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 3,
+    "name": "Riz jasmin",
+    "slug": "riz-jasmin-3",
+    "price": 22.21,
+    "compareAtPrice": 28.86,
+    "stock": 9,
+    "category": "Riz",
+    "origin": "Mali",
+    "tags": [
+      "riz",
+      "africa-market",
+      "mali",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Riz jasmin sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de riz jasmin, soigneusement sourcés en Mali.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 4,
+    "name": "Riz long grain",
+    "slug": "riz-long-grain-4",
+    "price": 12.83,
+    "compareAtPrice": 14.6,
+    "stock": 24,
+    "category": "Riz",
+    "origin": "Ghana",
+    "tags": [
+      "riz",
+      "africa-market",
+      "ghana"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Riz long grain sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de riz long grain, soigneusement sourcés en Ghana.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 5,
+    "name": "Riz local premium",
+    "slug": "riz-local-premium-5",
+    "price": 20.11,
+    "compareAtPrice": 22.97,
+    "stock": 31,
+    "category": "Riz",
+    "origin": "Nigeria",
+    "tags": [
+      "riz",
+      "africa-market",
+      "nigeria"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Riz local premium sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de riz local premium, soigneusement sourcés en Nigeria.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 6,
+    "name": "Piment moulu",
+    "slug": "piment-moulu-6",
+    "price": 7.31,
+    "compareAtPrice": 8.36,
+    "stock": 22,
+    "category": "Épices",
+    "origin": "Côte d'Ivoire",
+    "tags": [
+      "épices",
+      "africa-market",
+      "côte-divoire"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Piment moulu sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de piment moulu, soigneusement sourcés en Côte d'Ivoire.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 7,
+    "name": "Gingembre poudre",
+    "slug": "gingembre-poudre-7",
+    "price": 11.33,
+    "compareAtPrice": 14.92,
+    "stock": 19,
+    "category": "Épices",
+    "origin": "Cameroon",
+    "tags": [
+      "épices",
+      "africa-market",
+      "cameroon",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Gingembre poudre sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de gingembre poudre, soigneusement sourcés en Cameroon.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 8,
+    "name": "Mélange yassa",
+    "slug": "melange-yassa-8",
+    "price": 21.93,
+    "compareAtPrice": 28.2,
+    "stock": 39,
+    "category": "Épices",
+    "origin": "Benin",
+    "tags": [
+      "épices",
+      "africa-market",
+      "benin",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Mélange yassa sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de mélange yassa, soigneusement sourcés en Benin.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 9,
+    "name": "Poivre noir",
+    "slug": "poivre-noir-9",
+    "price": 18.84,
+    "compareAtPrice": 21.19,
+    "stock": 22,
+    "category": "Épices",
+    "origin": "Guinea",
+    "tags": [
+      "épices",
+      "africa-market",
+      "guinea"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Poivre noir sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de poivre noir, soigneusement sourcés en Guinea.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 10,
+    "name": "Curcuma pur",
+    "slug": "curcuma-pur-10",
+    "price": 15.45,
+    "compareAtPrice": 19.14,
+    "stock": 54,
+    "category": "Épices",
+    "origin": "Senegal",
+    "tags": [
+      "épices",
+      "africa-market",
+      "senegal",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Curcuma pur sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de curcuma pur, soigneusement sourcés en Senegal.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 11,
+    "name": "Farine de manioc",
+    "slug": "farine-de-manioc-11",
+    "price": 18.85,
+    "compareAtPrice": 24.91,
+    "stock": 26,
+    "category": "Farines",
+    "origin": "Mali",
+    "tags": [
+      "farines",
+      "africa-market",
+      "mali",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Farine de manioc sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de farine de manioc, soigneusement sourcés en Mali.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 12,
+    "name": "Farine de mil",
+    "slug": "farine-de-mil-12",
+    "price": 5.21,
+    "compareAtPrice": 7.03,
+    "stock": 49,
+    "category": "Farines",
+    "origin": "Ghana",
+    "tags": [
+      "farines",
+      "africa-market",
+      "ghana",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Farine de mil sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de farine de mil, soigneusement sourcés en Ghana.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 13,
+    "name": "Farine de maïs",
+    "slug": "farine-de-maïs-13",
+    "price": 2.86,
+    "compareAtPrice": 3.5,
+    "stock": 48,
+    "category": "Farines",
+    "origin": "Nigeria",
+    "tags": [
+      "farines",
+      "africa-market",
+      "nigeria",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Farine de maïs sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de farine de maïs, soigneusement sourcés en Nigeria.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 14,
+    "name": "Farine de fonio",
+    "slug": "farine-de-fonio-14",
+    "price": 17.01,
+    "compareAtPrice": 22.14,
+    "stock": 36,
+    "category": "Farines",
+    "origin": "Côte d'Ivoire",
+    "tags": [
+      "farines",
+      "africa-market",
+      "côte-divoire",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Farine de fonio sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de farine de fonio, soigneusement sourcés en Côte d'Ivoire.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 15,
+    "name": "Farine de blé tendre",
+    "slug": "farine-de-ble-tendre-15",
+    "price": 23.84,
+    "compareAtPrice": 31.39,
+    "stock": 43,
+    "category": "Farines",
+    "origin": "Cameroon",
+    "tags": [
+      "farines",
+      "africa-market",
+      "cameroon",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Farine de blé tendre sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de farine de blé tendre, soigneusement sourcés en Cameroon.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 16,
+    "name": "Chips plantain",
+    "slug": "chips-plantain-16",
+    "price": 7.76,
+    "compareAtPrice": 8.96,
+    "stock": 22,
+    "category": "Snacks",
+    "origin": "Benin",
+    "tags": [
+      "snacks",
+      "africa-market",
+      "benin"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Chips plantain sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de chips plantain, soigneusement sourcés en Benin.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 17,
+    "name": "Arachides grillées",
+    "slug": "arachides-grillees-17",
+    "price": 17.31,
+    "compareAtPrice": 21.25,
+    "stock": 14,
+    "category": "Snacks",
+    "origin": "Guinea",
+    "tags": [
+      "snacks",
+      "africa-market",
+      "guinea",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Arachides grillées sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de arachides grillées, soigneusement sourcés en Guinea.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 18,
+    "name": "Biscuit coco",
+    "slug": "biscuit-coco-18",
+    "price": 22.08,
+    "compareAtPrice": 26.73,
+    "stock": 41,
+    "category": "Snacks",
+    "origin": "Senegal",
+    "tags": [
+      "snacks",
+      "africa-market",
+      "senegal",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Biscuit coco sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de biscuit coco, soigneusement sourcés en Senegal.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 19,
+    "name": "Bâton manioc croustillant",
+    "slug": "bâton-manioc-croustillant-19",
+    "price": 11.52,
+    "compareAtPrice": 13.58,
+    "stock": 10,
+    "category": "Snacks",
+    "origin": "Mali",
+    "tags": [
+      "snacks",
+      "africa-market",
+      "mali"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Bâton manioc croustillant sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de bâton manioc croustillant, soigneusement sourcés en Mali.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 20,
+    "name": "Mix noix épicé",
+    "slug": "mix-noix-epice-20",
+    "price": 9.95,
+    "compareAtPrice": 11.55,
+    "stock": 52,
+    "category": "Snacks",
+    "origin": "Ghana",
+    "tags": [
+      "snacks",
+      "africa-market",
+      "ghana"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Mix noix épicé sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de mix noix épicé, soigneusement sourcés en Ghana.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 21,
+    "name": "Jus bissap",
+    "slug": "jus-bissap-21",
+    "price": 16.76,
+    "compareAtPrice": 19.8,
+    "stock": 1,
+    "category": "Boissons",
+    "origin": "Nigeria",
+    "tags": [
+      "boissons",
+      "africa-market",
+      "nigeria",
+      "low-stock"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Jus bissap sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de jus bissap, soigneusement sourcés en Nigeria.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 22,
+    "name": "Jus gingembre",
+    "slug": "jus-gingembre-22",
+    "price": 11.05,
+    "compareAtPrice": 13.22,
+    "stock": 40,
+    "category": "Boissons",
+    "origin": "Côte d'Ivoire",
+    "tags": [
+      "boissons",
+      "africa-market",
+      "côte-divoire"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Jus gingembre sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de jus gingembre, soigneusement sourcés en Côte d'Ivoire.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 23,
+    "name": "Boisson tamarin",
+    "slug": "boisson-tamarin-23",
+    "price": 15.17,
+    "compareAtPrice": 17.42,
+    "stock": 58,
+    "category": "Boissons",
+    "origin": "Cameroon",
+    "tags": [
+      "boissons",
+      "africa-market",
+      "cameroon"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Boisson tamarin sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de boisson tamarin, soigneusement sourcés en Cameroon.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 24,
+    "name": "Nectar mangue",
+    "slug": "nectar-mangue-24",
+    "price": 7.09,
+    "compareAtPrice": 7.85,
+    "stock": 42,
+    "category": "Boissons",
+    "origin": "Benin",
+    "tags": [
+      "boissons",
+      "africa-market",
+      "benin"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Nectar mangue sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de nectar mangue, soigneusement sourcés en Benin.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 25,
+    "name": "Soda ananas",
+    "slug": "soda-ananas-25",
+    "price": 7.79,
+    "compareAtPrice": 8.92,
+    "stock": 5,
+    "category": "Boissons",
+    "origin": "Guinea",
+    "tags": [
+      "boissons",
+      "africa-market",
+      "guinea",
+      "low-stock"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Soda ananas sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de soda ananas, soigneusement sourcés en Guinea.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 26,
+    "name": "Tomate concentrée",
+    "slug": "tomate-concentree-26",
+    "price": 8.76,
+    "compareAtPrice": 10.24,
+    "stock": 60,
+    "category": "Conserves",
+    "origin": "Senegal",
+    "tags": [
+      "conserves",
+      "africa-market",
+      "senegal"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Tomate concentrée sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de tomate concentrée, soigneusement sourcés en Senegal.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 27,
+    "name": "Sardines piment",
+    "slug": "sardines-piment-27",
+    "price": 11.36,
+    "compareAtPrice": 14.78,
+    "stock": 52,
+    "category": "Conserves",
+    "origin": "Mali",
+    "tags": [
+      "conserves",
+      "africa-market",
+      "mali",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Sardines piment sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de sardines piment, soigneusement sourcés en Mali.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 28,
+    "name": "Haricots rouges",
+    "slug": "haricots-rouges-28",
+    "price": 21.1,
+    "compareAtPrice": 28.2,
+    "stock": 57,
+    "category": "Conserves",
+    "origin": "Ghana",
+    "tags": [
+      "conserves",
+      "africa-market",
+      "ghana",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Haricots rouges sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de haricots rouges, soigneusement sourcés en Ghana.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 29,
+    "name": "Maïs doux",
+    "slug": "maïs-doux-29",
+    "price": 20.56,
+    "compareAtPrice": 25.38,
+    "stock": 5,
+    "category": "Conserves",
+    "origin": "Nigeria",
+    "tags": [
+      "conserves",
+      "africa-market",
+      "nigeria",
+      "low-stock",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Maïs doux sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de maïs doux, soigneusement sourcés en Nigeria.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 30,
+    "name": "Thon naturel",
+    "slug": "thon-naturel-30",
+    "price": 6.99,
+    "compareAtPrice": 8.12,
+    "stock": 35,
+    "category": "Conserves",
+    "origin": "Côte d'Ivoire",
+    "tags": [
+      "conserves",
+      "africa-market",
+      "côte-divoire"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Thon naturel sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de thon naturel, soigneusement sourcés en Côte d'Ivoire.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 31,
+    "name": "Attiéké surgelé",
+    "slug": "attieke-surgele-31",
+    "price": 6.26,
+    "compareAtPrice": 7.44,
+    "stock": 46,
+    "category": "Surgelés",
+    "origin": "Cameroon",
+    "tags": [
+      "surgelés",
+      "africa-market",
+      "cameroon"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Attiéké surgelé sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de attiéké surgelé, soigneusement sourcés en Cameroon.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 32,
+    "name": "Légumes mix",
+    "slug": "legumes-mix-32",
+    "price": 6.32,
+    "compareAtPrice": 7.7,
+    "stock": 39,
+    "category": "Surgelés",
+    "origin": "Benin",
+    "tags": [
+      "surgelés",
+      "africa-market",
+      "benin",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Légumes mix sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de légumes mix, soigneusement sourcés en Benin.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 33,
+    "name": "Poisson capitaine",
+    "slug": "poisson-capitaine-33",
+    "price": 8.59,
+    "compareAtPrice": 10.14,
+    "stock": 34,
+    "category": "Surgelés",
+    "origin": "Guinea",
+    "tags": [
+      "surgelés",
+      "africa-market",
+      "guinea"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Poisson capitaine sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de poisson capitaine, soigneusement sourcés en Guinea.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 34,
+    "name": "Pastels prêts",
+    "slug": "pastels-prets-34",
+    "price": 6.33,
+    "compareAtPrice": 7.49,
+    "stock": 11,
+    "category": "Surgelés",
+    "origin": "Senegal",
+    "tags": [
+      "surgelés",
+      "africa-market",
+      "senegal"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Pastels prêts sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de pastels prêts, soigneusement sourcés en Senegal.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 35,
+    "name": "Poulet découpé",
+    "slug": "poulet-decoupe-35",
+    "price": 7.45,
+    "compareAtPrice": 9.87,
+    "stock": 60,
+    "category": "Surgelés",
+    "origin": "Mali",
+    "tags": [
+      "surgelés",
+      "africa-market",
+      "mali",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Poulet découpé sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de poulet découpé, soigneusement sourcés en Mali.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 36,
+    "name": "Saucisses halal",
+    "slug": "saucisses-halal-36",
+    "price": 5.01,
+    "compareAtPrice": 6.65,
+    "stock": 25,
+    "category": "Halal",
+    "origin": "Ghana",
+    "tags": [
+      "halal",
+      "africa-market",
+      "ghana",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Saucisses halal sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de saucisses halal, soigneusement sourcés en Ghana.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 37,
+    "name": "Nuggets halal",
+    "slug": "nuggets-halal-37",
+    "price": 12.91,
+    "compareAtPrice": 15.93,
+    "stock": 23,
+    "category": "Halal",
+    "origin": "Nigeria",
+    "tags": [
+      "halal",
+      "africa-market",
+      "nigeria",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Nuggets halal sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de nuggets halal, soigneusement sourcés en Nigeria.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 38,
+    "name": "Kefta halal",
+    "slug": "kefta-halal-38",
+    "price": 2.68,
+    "compareAtPrice": 3.39,
+    "stock": 20,
+    "category": "Halal",
+    "origin": "Côte d'Ivoire",
+    "tags": [
+      "halal",
+      "africa-market",
+      "côte-divoire",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Kefta halal sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de kefta halal, soigneusement sourcés en Côte d'Ivoire.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 39,
+    "name": "Charcuterie halal",
+    "slug": "charcuterie-halal-39",
+    "price": 9.34,
+    "compareAtPrice": 11.04,
+    "stock": 17,
+    "category": "Halal",
+    "origin": "Cameroon",
+    "tags": [
+      "halal",
+      "africa-market",
+      "cameroon"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Charcuterie halal sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de charcuterie halal, soigneusement sourcés en Cameroon.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  },
+  {
+    "id": 40,
+    "name": "Steak haché halal",
+    "slug": "steak-hache-halal-40",
+    "price": 2.71,
+    "compareAtPrice": 3.61,
+    "stock": 7,
+    "category": "Halal",
+    "origin": "Benin",
+    "tags": [
+      "halal",
+      "africa-market",
+      "benin",
+      "low-stock",
+      "promo"
+    ],
+    "images": [
+      "assets/images/placeholder-food.svg"
+    ],
+    "description": "Steak haché halal sélectionné par Maci Food pour une cuisine africaine authentique et premium.",
+    "ingredients": "Ingrédients principaux de steak haché halal, soigneusement sourcés en Benin.",
+    "allergens": "Peut contenir des traces d'arachides, soja et gluten."
+  }
+]

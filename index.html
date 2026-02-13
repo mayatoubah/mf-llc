@@ -1,0 +1,24 @@
+<!doctype html><html lang="fr"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maci Food — Africa Market Premium</title>
+<meta name="description" content="Maci Food, votre e-commerce Africa Market premium.">
+<meta property="og:title" content="Maci Food"><meta property="og:description" content="Africa Market online premium.">
+<link rel="stylesheet" href="css/styles.css"></head><body>
+<header class="topbar"><div class="container nav"><a class="brand" href="index.html">Maci <span>Food</span></a><nav class="nav-links"><a href="shop.html">Shop</a><a href="about.html">About</a><a href="contact.html">Contact</a><a href="faq.html">FAQ</a></nav><div class="nav-actions"><button class="icon-btn" data-open-search aria-label="Rechercher">⌕</button><button class="icon-btn" data-theme-toggle aria-label="Basculer le thème">◐</button><a class="icon-btn" href="#" aria-label="Wishlist">♡</a><button class="icon-btn badge" data-open-cart data-cart-count data-count="0" aria-label="Panier">🛒</button></div></div></header>
+<main>
+<section class="hero container"><div class="hero-wrap"><h1>Africa Market online, version premium 2026.</h1><p>Produits authentiques, sélection haut de gamme, expérience rapide et immersive.</p><div><a class="btn btn-primary" href="shop.html">Shop Now</a></div></div></section>
+<section class="section container"><h2>Catégories</h2><div class="grid category-grid"><a class="card" href="shop.html">Riz</a><a class="card" href="shop.html">Épices</a><a class="card" href="shop.html">Farines</a><a class="card" href="shop.html">Snacks</a><a class="card" href="shop.html">Boissons</a><a class="card" href="shop.html">Conserves</a></div></section>
+<section class="section container"><h2>Best Sellers</h2><div id="bestSellers" class="grid product-grid"></div></section>
+<section class="section container"><h2>New Arrivals</h2><div id="newArrivals" class="grid product-grid"></div></section>
+<section class="section container"><div class="hero-wrap"><h2>Promo de la semaine</h2><p>-20% sur une sélection de packs essentiels.</p><a class="btn btn-primary" href="shop.html">Voir l'offre</a></div></section>
+<section class="section container"><h2>Shop by Country</h2><div id="countryGrid" class="grid category-grid"></div></section>
+<section class="section container"><h2>Testimonials</h2><div class="grid category-grid"><article class="card">“Livraison rapide et qualité top.” — Aïssata</article><article class="card">“Design wow + produits authentiques.” — Mamadou</article><article class="card">“Le meilleur Africa Market en ligne.” — Sarah</article></div></section>
+<section class="section container"><h2>Newsletter</h2><form class="card grid" style="max-width:560px"><label>Email<input type="email" required placeholder="vous@exemple.com"></label><button class="btn btn-primary">S'inscrire</button></form></section>
+</main>
+<footer class="footer"><div class="container footer-grid"><div><h3>Maci Food</h3><p>Africa Market online premium.</p></div><div><h4>Navigation</h4><a href="shop.html">Shop</a><br><a href="shipping-returns.html">Livraison & retours</a></div><div><h4>Aide</h4><a href="contact.html">Contact</a><br><a href="faq.html">FAQ</a></div></div></footer>
+<div id="cartDrawer" class="drawer" aria-hidden="true"><div class="overlay" data-close-layer></div><aside class="panel"><h3>Panier</h3><div id="drawerItems"></div><p>Total: <strong id="drawerTotal">0€</strong></p><a class="btn btn-primary" href="cart.html">Voir le panier</a></aside></div>
+<div id="quickView" class="modal"><div class="overlay" data-close-layer></div><div class="modal-card"><button class="btn btn-ghost" data-close-layer>Fermer</button><div id="quickViewBody"></div></div></div>
+<div id="searchModal" class="search-overlay"><div class="overlay" data-close-layer></div><div class="modal-card"><input id="searchInput" placeholder="Rechercher (Ctrl+K)" aria-label="Recherche"><div id="searchResults" style="margin-top:1rem"></div></div></div>
+<div id="toastWrap" class="toast-wrap" aria-live="polite"></div>
+<script type="module" src="js/pages/home.js"></script>
+</body></html>
